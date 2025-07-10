@@ -1,6 +1,3 @@
-# Tugas-Akhir-NoSQL
-Arsiktektur Penyimpanan Data Transaksi Keuangan
-
 # 💰 tugas_besar_nosql
 
 Sistem Manajemen Data Transaksi Keuangan Sederhana menggunakan **Node.js**, **MongoDB**, dan **Redis**.
